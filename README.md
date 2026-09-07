@@ -6,16 +6,16 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ayushmaan-8&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123553380%3Fu%3Dc4d4ae195e07625d3eaddf61a23e138280907e3a%26v%3D4&style=terminal" alt="ayushmaan-8 hero visual" />
 </p>
 
-**Ayushmaan Jha** · Frontend or full-stack engineer
+**Ayushmaan Jha** · Backend engineer
 
 ## Runtime notes
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Full-stack engineer
 LOCATION    = remote
 PUBLIC_REPOS = 12
 COMMUNITY   = 0 followers</code></pre>
 
-Building useful things and learning in public.
+I like building things, breaking things, and occasionally wondering why I thought building them was a good idea in the first place. I bounce between code, design, AI and whatever else catches my curiosity. Give me a problem, a laptop, and a few days — I'll probably come back with something.
 
 ## Service toolkit
 
